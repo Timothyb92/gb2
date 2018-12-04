@@ -1,0 +1,31 @@
+.col-sm-12 {
+  padding: 0;
+}
+
+.btn {
+  margin-top: 1em;
+  width: 100%;
+  background-color: #A28639;
+  font-size: 2em;
+}
+
+body {
+  background-color: #BCEFEE;
+  font-family: 'Pacifico', cursive;
+  padding: 0;
+}
+
+h1 {
+  font-size: 4.5rem;
+  color: #A28639
+}
+
+img {
+  margin-top: 3em;
+}
+
+.row {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}

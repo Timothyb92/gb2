@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+  position: relative;
+  padding-top: 2em;
+}
+
+p, h2 {
+  color: #A28639
+}
